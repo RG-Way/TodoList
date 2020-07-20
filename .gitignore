@@ -1,5 +1,5 @@
 # React Project Distribute
-build/
+**/build/
 
 # Logs
 logs
